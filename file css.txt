@@ -1,1 +1,2 @@
-{background-color: red }
+html {
+background-color: red no-repeat center fixed}
