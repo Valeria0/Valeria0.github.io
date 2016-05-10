@@ -1,1 +1,1 @@
-ciao
+body {background-color: red }
