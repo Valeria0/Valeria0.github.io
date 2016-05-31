@@ -1,1 +1,4 @@
-body {background-image: url(fumetti.jpg); background-repeat: no-repeat; background-position: right; }
+body {background-image: url(fumetti.jpg); 
+      background-repeat: no-repeat; 
+      background-position: right;
+      background-position: 50px 50px}
